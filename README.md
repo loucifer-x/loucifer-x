@@ -36,9 +36,6 @@ My interests include:
   🏆 Ranked <b>#2 globally</b> on TryHackMe
 </p>
 
-Profile:
-https://tryhackme.com/p/loucifer
-
 ---
 
 ## Featured Project
