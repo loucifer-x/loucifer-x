@@ -14,21 +14,7 @@
 
 ---
 
-
 ## About
-
-Security researcher focused on application security, vulnerability research, and building tools for security testing and automation.
-
-Interests:
-- Web application security
-- Vulnerability research
-- Security automation
-- Browser-based testing
-- CTF challenges
-
----
-
-## TryHackMe
 
 <p align="center">
   <a href="https://tryhackme.com/p/loucifer">
