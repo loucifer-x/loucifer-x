@@ -20,7 +20,7 @@
 <a href="https://tryhackme.com/p/loucifer">
 <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge"/>
 </a>
----
+
 
 ## About
 
@@ -39,14 +39,3 @@
 
 
 
-## Contact
-
-<p align="center">
-<a href="https://github.com/loucifer-x">
-<img src="https://img.shields.io/badge/GitHub-loucifer--x-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://tryhackme.com/p/loucifer">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge"/>
-</a>
-</p>
