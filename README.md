@@ -1,4 +1,4 @@
-![Gothic Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/gothic-banner.svg)
+![Gothic Spider Web Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/spider-web-banner.svg)
   <b>
     <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
     &nbsp;|&nbsp;
