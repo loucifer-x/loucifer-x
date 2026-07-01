@@ -43,8 +43,6 @@ My interests include:
 
 A modular AI knowledge platform that crawls and ingests HTTPS sources, processes documents, automatically categorizes content, and supports extensibility through an addon manager.
 
- https://github.com/loucifer-x/ErgoAI
-
 
 ### PROSECUTOR
 **Web security research toolkit** https://github.com/loucifer-x/PROSECUTOR 
