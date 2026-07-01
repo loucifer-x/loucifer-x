@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge"/>
 </a>
 
+<p align="center">
+  <b>#2 Global Rank</b>
+</p>
+
 
 <p align="center">
   <a href="https://tryhackme.com/p/loucifer">
@@ -29,9 +33,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>#2 Global Rank</b>
-</p>
 
 
 
