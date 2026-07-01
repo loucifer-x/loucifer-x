@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="2.gif" width="500" alt="Banner">
+  <img src="goth-emo.gif" width="500" alt="Banner">
 </p>
 
 
