@@ -38,22 +38,20 @@ My interests include:
 
 ## Featured Projects
 
-###  [https://github.com/loucifer-x/ErgoAI](ERGOAI)
-**AI-powered RAG backend system**
+### ERGOAI
+**AI-powered RAG backend system** https://github.com/loucifer-x/ErgoAI 
 
 A modular AI knowledge platform that crawls and ingests HTTPS sources, processes documents, automatically categorizes content, and supports extensibility through an addon manager.
 
  https://github.com/loucifer-x/ErgoAI
 
 
-### [https://github.com/loucifer-x/PROSECUTOR](PROSECUTOR)
-**Web security research toolkit**
+### PROSECUTOR
+**Web security research toolkit** https://github.com/loucifer-x/PROSECUTOR 
 
 A security testing framework focused on automated analysis, crawling, browser-based interaction, and research workflows. XSS, SSRF, SQL + more
 
  
-
-
 ---
 
 
