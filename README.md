@@ -8,9 +8,6 @@
      #2 Globally
   </b>
 </p>
-
-
-
 <p align="center">
   <b>Security Researcher · Web Security · Python Developer</b>
   <br>
