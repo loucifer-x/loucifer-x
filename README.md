@@ -40,15 +40,9 @@ My interests include:
 
 ### PROSECUTOR
 
-A security testing toolkit built for exploring and analysing web applications.
 
-Focus areas:
+### ERGOAI
 
-* Web crawling
-* SPA analysis
-* HTTP workflows
-* Automated security checks
-* Research tooling
 
 ---
 
