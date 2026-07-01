@@ -1,4 +1,3 @@
-# Hi 👋 I'm Loucifer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Loucifer&fontColor=ffffff&fontSize=60" />
@@ -27,11 +26,7 @@
   <img src="https://streak-stats.demolab.com?user=loucifer-x&theme=github-dark&hide_border=true" />
 </p>
 
-## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loucifer-x&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
