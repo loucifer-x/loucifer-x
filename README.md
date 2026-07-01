@@ -46,14 +46,6 @@ My interests include:
 
 ---
 
-## Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,docker,vscode" />
-</p>
-
-
----
 
 ## GitHub Stats
 
