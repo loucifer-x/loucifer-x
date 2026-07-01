@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b0b0b,100:2b0000&text=Loucifer&fontColor=ffffff&fontSize=60&animation=fadeIn" />
 </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:450000,100:080808"/> </p>
 
 <p align="center">
   <b>Security Researcher · Web Security · Python Developer</b>
@@ -33,6 +32,11 @@
 <p align="center">
   <b>#2 Global Rank</b>
 </p>
+
+
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:450000,100:080808"/> </p>
+
 
 
 
