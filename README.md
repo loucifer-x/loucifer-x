@@ -1,4 +1,6 @@
-![Gothic Spider Web Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/spider-web-banner.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,100:001a33&text=Loucifer&fontColor=00ffff&fontSize=65&animation=twinkling"/>
+</p>
   <b>
     <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
     &nbsp;|&nbsp;
