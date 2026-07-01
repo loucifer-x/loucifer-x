@@ -63,16 +63,6 @@ Focus areas:
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,docker,vscode" />
 </p>
 
-Additional technologies:
-
-```
-Python
-HTTPX / Requests
-Playwright
-BeautifulSoup
-Web Security Testing
-Automation
-```
 
 ---
 
