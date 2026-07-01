@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,100:450000&text=Loucifer&fontColor=ff0000&fontSize=65&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:1a0000,100:8b0000&text=Loucifer&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=fadeIn&font=Orbitron"/>
 </p>
-
 
 <p align="center">
   <b>Security Researcher · Web Security · Python Developer</b>
