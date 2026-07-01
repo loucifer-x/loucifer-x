@@ -25,9 +25,9 @@
 
 <p align="center">
   <b>
-    <a href="https://tryhackme.com/p/loucifer">⚔️ TryHackMe Profile</a>
+    <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
     &nbsp;|&nbsp;
-    🏆 #2 Globally
+     #2 Globally
   </b>
 </p>
 
