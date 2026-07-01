@@ -25,10 +25,13 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/loucifer">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/loucifer.png" alt="TryHackMe Profile"> #2 Global Rank/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/loucifer.png" alt="TryHackMe Profile"/>
   </a>
 </p>
 
+<p align="center">
+  <b>⚡ Top Ranked TryHackMe Player • Global Leaderboard</b>
+</p>
 
 
 
