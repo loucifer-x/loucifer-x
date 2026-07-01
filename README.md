@@ -1,5 +1,4 @@
-![Gothic Banner](https://capsule-render.vercel.app/api?type=waving&color=0:120008,100:2b0000&height=200&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Dark%20Gothic%20Aesthetic&descAlignY=60&descSize=18)
-<p align="center">
+![Gothic Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/gothic-banner.svg)
   <b>
     <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
     &nbsp;|&nbsp;
