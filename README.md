@@ -99,7 +99,3 @@ Automation
 
 ---
 
-<p align="center">
-<i>Security is built through curiosity, research, and persistence.</i>
-</p>
-
