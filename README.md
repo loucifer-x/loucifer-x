@@ -4,8 +4,10 @@
 
 <p align="center">
   <b>Security Researcher · Web Security · Python Developer</b>
+  <br><br>
+  <a href="https://github.com/loucifer-x/PROSECUTOR">PROSECUTOR</a>
   <br>
-  <b><a href="https://github.com/loucifer-x/PROSECUTOR">PROSECUTOR</a></b>
+  <a href="https://github.com/loucifer-x/ErgoAI">ErgoAI</a>
 </p>
 
 ---
@@ -38,28 +40,6 @@ Interests:
 <p align="center">
   <b>#2 Global Rank</b>
 </p>
-
----
-
-## Projects
-
-### ERGOAI
-
-AI-powered RAG backend system.
-
-https://github.com/loucifer-x/ErgoAI
-
-A modular platform for crawling, processing, and organizing knowledge from HTTPS sources with extensible addons.
-
----
-
-### PROSECUTOR
-
-Web security research toolkit.
-
-https://github.com/loucifer-x/PROSECUTOR
-
-A framework for automated security testing, crawling, browser interaction, and vulnerability research.
 
 ---
 
