@@ -10,7 +10,7 @@
   <a href="https://github.com/loucifer-x/ErgoAI">ErgoAI</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/loucifer-x/Hackopedia-x">Hackopedia-x</a>
-</p>](https://github.com/loucifer-x/Hackopedia-x)
+</p>
 
 ---
 
