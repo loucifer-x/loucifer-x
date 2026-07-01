@@ -3,26 +3,30 @@
 </p>
 
 <p align="center">
-  <b>Security Researcher • Web Security • Python Developer</b>
+  <b>Security Researcher · Web Security · Python Developer</b>
+</p>
+
+<p align="center">
+  <i>Breaking things to understand how to build them better.</i>
 </p>
 
 ---
 
-## About
+## 👋 About Me
 
-I'm a security researcher focused on understanding how applications work, where they break, and how they can be made more resilient.
+I'm a security researcher focused on understanding how applications behave, identifying weaknesses, and building tools that improve security testing workflows.
 
-My interests include:
+### Interests
 
-* Web application security
-* Vulnerability research
-* Security automation
-* Browser-based testing
-* CTF challenges and practical labs
+- 🔐 Web application security
+- 🧪 Vulnerability research
+- ⚙️ Security automation
+- 🌐 Browser-based testing
+- 🏴 CTFs & practical security labs
 
 ---
 
-## TryHackMe
+## 🏆 TryHackMe
 
 <p align="center">
   <a href="https://tryhackme.com/p/loucifer">
@@ -31,48 +35,71 @@ My interests include:
 </p>
 
 <p align="center">
-  🏆 Ranked <b>#2 globally</b> on TryHackMe
+  <b>Ranked #2 globally on TryHackMe</b>
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### ERGOAI
-**AI-powered RAG backend system** https://github.com/loucifer-x/ErgoAI 
+### 🤖 ERGOAI
 
-A modular AI knowledge platform that crawls and ingests HTTPS sources, processes documents, automatically categorizes content, and supports extensibility through an addon manager.
+**AI-powered RAG backend system**
+
+🔗 https://github.com/loucifer-x/ErgoAI
+
+A modular AI knowledge platform that crawls HTTPS sources, processes documents, automatically categorizes information, and supports extensibility through an addon architecture.
+
+**Tech focus:**
+- Retrieval-Augmented Generation (RAG)
+- Document processing
+- Knowledge ingestion pipelines
+- Modular backend design
 
 
-### PROSECUTOR
-**Web security research toolkit** https://github.com/loucifer-x/PROSECUTOR 
-
-A security testing framework focused on automated analysis, crawling, browser-based interaction, and research workflows. XSS, SSRF, SQL + more
-
- 
 ---
 
+### 🛡️ PROSECUTOR
 
-## GitHub Stats
+**Web security research toolkit**
+
+🔗 https://github.com/loucifer-x/PROSECUTOR
+
+A security testing framework designed for automated analysis, crawling, browser interaction, and vulnerability research workflows.
+
+**Capabilities:**
+- XSS detection & testing
+- SSRF research
+- SQL injection analysis
+- Automated security workflows
+- Browser-driven testing
+
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=loucifer-x&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loucifer-x&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loucifer-x&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loucifer-x&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## Contact
+## 📫 Contact
 
 <p align="center">
-<a href="https://github.com/loucifer-x">
-<img src="https://img.shields.io/badge/GitHub-loucifer--x-black?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/loucifer-x">
+    <img src="https://img.shields.io/badge/GitHub-loucifer--x-black?style=for-the-badge&logo=github"/>
+  </a>
 
-<a href="https://tryhackme.com/p/loucifer">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge"/>
-</a>
+  <a href="https://tryhackme.com/p/loucifer">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
+<p align="center">
+  <sub>Security research • Automation • Offensive tooling</sub>
+</p>
