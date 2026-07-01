@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,100:450000&text=Loucifer&fontColor=ff0000&fontSize=65&animation=twinkling"/>
 </p>
-
-
 <p align="center">
   <b>
     <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
