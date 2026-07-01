@@ -6,7 +6,7 @@
   <b>Security Researcher · Web Security · Python Developer</b>
   <br><br>
   <a href="https://github.com/loucifer-x/PROSECUTOR">PROSECUTOR</a>
-  <br>
+  &nbsp;|&nbsp;
   <a href="https://github.com/loucifer-x/ErgoAI">ErgoAI</a>
 </p>
 
