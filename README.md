@@ -1,5 +1,6 @@
-![Banner](giphy.gif)
-
+<p align="center">
+  <img src="giphy.gif" width="100%" alt="Banner">
+</p>
 <p align="center">
   <b>Security Researcher · Web Security · Python Developer</b>
 </p>
