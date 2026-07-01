@@ -4,8 +4,11 @@
 
 <p align="center">
   <b>Security Researcher · Web Security · Python Developer</b>
-  <b>[PROSECUTOR](https://github.com/loucifer-x/PROSECUTOR)</b>
+  <br>
+  <b><a href="https://github.com/loucifer-x/PROSECUTOR">PROSECUTOR</a></b>
 </p>
+
+---
 
 ---
 
