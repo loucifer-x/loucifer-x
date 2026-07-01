@@ -1,5 +1,3 @@
-# Loucifer
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b0b0b,100:2b0000&text=Loucifer&fontColor=ffffff&fontSize=60&animation=fadeIn" />
 </p>
