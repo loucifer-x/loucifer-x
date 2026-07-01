@@ -2,6 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,100:450000&text=Loucifer&fontColor=ff0000&fontSize=65&animation=twinkling"/>
 </p>
 
+
+<p align="center">
+  <b>
+    <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
+    &nbsp;|&nbsp;
+     #2 Globally
+  </b>
+</p>
+
+
+
 <p align="center">
   <b>Security Researcher · Web Security · Python Developer</b>
   <br>
@@ -12,13 +23,7 @@
   <a href="https://github.com/loucifer-x/Hackopedia-x">Hackopedia-x</a>
 </p>
 
-<p align="center">
-  <b>
-    <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
-    &nbsp;|&nbsp;
-     #2 Globally
-  </b>
-</p>
+
 
 
 <p align="center">
