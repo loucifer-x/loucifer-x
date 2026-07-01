@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b href="https://github.com/loucifer-x/PROSECUTOR">PROSECUTOR</b>
+  <a href="https://github.com/loucifer-x/PROSECUTOR">PROSECUTOR</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/loucifer-x/ErgoAI">ErgoAI</a>
   &nbsp;|&nbsp;
