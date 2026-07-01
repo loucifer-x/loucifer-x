@@ -1,10 +1,12 @@
-<p>
+
+<p align="center">
   <b>
     <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
     &nbsp;|&nbsp;
-     #2 Globally
+    #2 Globally
   </b>
 </p>
+
 <p align="center">
   <b>Security Researcher · Web Security · Python Developer</b>
 </p>
