@@ -13,8 +13,6 @@
   <a href="https://github.com/loucifer-x/Hackopedia-x">Hackopedia-x</a>
 </p>
 
-
-
 <p align="center">
   <b>
     <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
@@ -25,20 +23,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/loucifer-x">
-    <img src="https://img.shields.io/badge/GitHub-loucifer--x-black?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://tryhackme.com/p/loucifer">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:450000,100:080808"/>
-</p>
-
-<p align="center">
 <a href="https://github.com/loucifer-x">
 <img src="https://img.shields.io/badge/GitHub-loucifer--x-black?style=for-the-badge&logo=github"/>
 </a>
@@ -46,8 +30,6 @@
 <a href="https://tryhackme.com/p/loucifer">
 <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge"/>
 </a>
-
-
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:450000,100:080808"/> </p>
 
