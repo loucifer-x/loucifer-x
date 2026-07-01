@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Loucifer&fontSize=75&fontColor=ffffff&animation=twinkling&color=0:050505,50:220000,100:ff0000"/>
-</p>
+![Gothic Banner](https://capsule-render.vercel.app/api?type=waving&color=0:120008,100:2b0000&height=200&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Dark%20Gothic%20Aesthetic&descAlignY=60&descSize=18)
 <p align="center">
   <b>
     <a href="https://tryhackme.com/p/loucifer">TryHackMe Profile</a>
