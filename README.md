@@ -24,8 +24,6 @@
 </p>
 
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:450000,100:080808"/> </p>
-
 
 
 <p align="center">
@@ -38,6 +36,8 @@
 </a>
 
 
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:450000,100:080808"/> </p>
 
 
 
