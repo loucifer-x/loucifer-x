@@ -1,4 +1,3 @@
-<h1 align="center">loucifer-x</h1>
 
 <p align="center">
 Cyber Security • Python Developer • Security Research • CTF Player
