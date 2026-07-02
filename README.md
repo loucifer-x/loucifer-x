@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="5.gif" width="100%" alt="banner">
-</p>
 
 <h1 align="center">Loucifer-x</h1>
 
@@ -21,6 +18,9 @@ Cyber Security • Python Developer • Security Research • CTF Player
 </p>
 
 ---
+<p align="center">
+  <img src="5.gif" width="100%" alt="banner">
+</p>
 
 
 
