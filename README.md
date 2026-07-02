@@ -23,6 +23,3 @@ Cyber Security • Python Developer • Security Research • CTF Player
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=loucifer-x&theme=tokyonight&hide_border=true" />
-</p>
