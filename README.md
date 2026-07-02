@@ -2,7 +2,7 @@
   <img src="5.gif" width="100%" alt="banner">
 </p>
 
-<h1 align="center">⚡ Loucifer ⚡</h1>
+<h1 align="center">Loucifer-x</h1>
 
 <p align="center">
 Cyber Security • Python Developer • Security Research • CTF Player
@@ -22,14 +22,5 @@ Cyber Security • Python Developer • Security Research • CTF Player
 
 ---
 
-# 💀 About Me
-
-```txt
-> Learning offensive security
-> Building Python security tools
-> Creating Hackopedia
-> Active on TryHackMe
-> Always learning something new
-```
 
 
