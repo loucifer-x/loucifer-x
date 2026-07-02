@@ -1,9 +1,5 @@
 
 <p align="center">
-Cyber Security • Python Developer • Security Research • CTF Player
-</p>
-
-<p align="center">
 <a href="https://tryhackme.com/p/loucifer">
 <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
 </a>
