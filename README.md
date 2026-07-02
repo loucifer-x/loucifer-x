@@ -32,30 +32,6 @@ Cyber Security • Python Developer • Security Research • CTF Player
 > Always learning something new
 ```
 
----
-
-# ⚔️ Current Projects
-
-| Project | Description |
-|---------|-------------|
-| 🕵️ PROSECUTOR | Investigation & OSINT toolkit |
-| 🤖 ErgoAI | AI assistant |
-| 📚 Hackopedia-x | Personal cybersecurity knowledge base |
-
----
-
-# 🧠 Currently Learning
-
-- Web Security
-- Active Directory
-- Reverse Engineering
-- Malware Analysis
-- Linux Privilege Escalation
-- Windows Internals
-- Networking
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
