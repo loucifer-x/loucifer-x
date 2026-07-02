@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-<a href="https://tryhackme.com/p/loucifer">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=CTF WRITEUP"/>
+<a href="https://github.com/loucifer-x">
+<img src="https://img.shields.io/badge/CTF-WRITEUP-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
