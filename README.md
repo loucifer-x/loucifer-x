@@ -17,4 +17,12 @@
 </p>
 
 
+<h3 align="center">⚔️ Arsenal</h3>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,github,vscode"/>
+</p>
+
+<p align="center">
+  <b>Cybersecurity | CTFs | Automation | Open Source</b>
+</p>
