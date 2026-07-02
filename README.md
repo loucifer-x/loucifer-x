@@ -23,4 +23,7 @@ Cyber Security • Python Developer • Security Research • CTF Player
 </p>
 
 
-
+ <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=loucifer-x&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loucifer-x&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
