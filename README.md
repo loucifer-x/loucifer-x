@@ -17,7 +17,13 @@ Cyber Security • Python Developer • Security Research • CTF Player
 <img src="https://komarev.com/ghpvc/?username=loucifer-x&style=for-the-badge&color=red"/>
 </p>
 
+## 🎖️ Achievements
 
+![Pre Security](https://img.shields.io/badge/TryHackMe-Pre--Security-red?style=for-the-badge)
+
+![Jr Pentester](https://img.shields.io/badge/TryHackMe-Jr--Pentester-red?style=for-the-badge)
+
+![Web Fundamentals](https://img.shields.io/badge/TryHackMe-Web--Fundamentals-red?style=for-the-badge)
 <p align="center">
   <img src="5.gif" width="100%" alt="banner">
 </p>
