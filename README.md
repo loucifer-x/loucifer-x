@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,python,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,ai,python,vscode"/>
 </p>
 
 
