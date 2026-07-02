@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  🩸 <b>loucifer-x</b> • Offensive Security • CTF Player • Developer
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,python,vscode"/>
 </p>
