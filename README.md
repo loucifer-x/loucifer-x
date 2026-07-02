@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=loucifer-x&style=for-the-badge&color=red"/>
 </p>
 <p align="center">
-  <a href="https://github.com/loucifer-x">
+  <a href="https://github.com/loucifer-x/CTF">
     <img src="https://img.shields.io/badge/CTF-WRITEUPS-181717?style=for-the-badge&logo=github" alt="CTF Writeups"/>
   </a>
 </p>
