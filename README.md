@@ -22,16 +22,10 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=loucifer-x&show_icons=true&theme=radical&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=loucifer-x&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loucifer-x&layout=compact&theme=radical&hide_border=true"/>
-</p>
+
