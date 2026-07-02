@@ -23,6 +23,4 @@ Cyber Security • Python Developer • Security Research • CTF Player
 </p>
 
 
-[<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=loucifer-x&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>](https://github-readme-stats.vercel.app/api?username=loucifer-x&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=loucifer-x&show_icons=true&theme=tokyonight
