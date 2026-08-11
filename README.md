@@ -8,13 +8,12 @@
 ███████╗╚██████╔╝╚██████╔╝╚██████╗██║██║     ███████╗██║  ██║      ██╔╝ ██╗
 ╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝      ╚═╝  ╚═╝
 ```
-
 <div align="center">
 
 ### `> initializing profile...`
 
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-39FF14?style=for-the-badge&labelColor=0d0221)
-![Focus](https://img.shields.io/badge/FOCUS-OFFENSIVE%20%26%20DEFENSIVE%20SECURITY-FF00FF?style=for-the-badge&labelColor=0d0221)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF0000?style=for-the-badge&labelColor=000000)
+![Focus](https://img.shields.io/badge/FOCUS-OFFENSIVE%20%26%20DEFENSIVE%20SECURITY-FF0000?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -28,10 +27,10 @@ Aspiring cybersecurity professional building practical, hands-on experience thro
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-loucifer-212C42?style=for-the-badge&logo=tryhackme&logoColor=39FF14&labelColor=0d0221)](https://tryhackme.com/p/loucifer)
-[![CTF Writeups](https://img.shields.io/badge/CTF-Writeups-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)](https://github.com/loucifer-x/CTF)
-[![Home Lab Diary](https://img.shields.io/badge/Home%20Lab-Diary-00F0FF?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=0d0221)](https://github.com/loucifer-x/Home-Lab-Diary)
-[![ErgoAI](https://img.shields.io/badge/ErgoAI-Local%20AI%20Assistant-39FF14?style=for-the-badge&logo=ollama&logoColor=0d0221&labelColor=0d0221)](https://github.com/loucifer-x/ErgoAI)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-loucifer-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/loucifer)
+[![CTF Writeups](https://img.shields.io/badge/CTF-Writeups-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/loucifer-x/CTF)
+[![Home Lab Diary](https://img.shields.io/badge/Home%20Lab-Diary-FF0000?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=000000)](https://github.com/loucifer-x/Home-Lab-Diary)
+[![ErgoAI](https://img.shields.io/badge/ErgoAI-Local%20AI%20Assistant-FF0000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=000000)](https://github.com/loucifer-x/ErgoAI)
 
 </div>
 
