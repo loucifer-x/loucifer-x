@@ -8,14 +8,7 @@
 ███████╗╚██████╔╝╚██████╔╝╚██████╗██║██║     ███████╗██║  ██║      ██╔╝ ██╗
 ╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝      ╚═╝  ╚═╝
 ```
-<div align="center">
 
-### `> initializing profile...`
-
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF0000?style=for-the-badge&labelColor=000000)
-![Focus](https://img.shields.io/badge/FOCUS-OFFENSIVE%20%26%20DEFENSIVE%20SECURITY-FF0000?style=for-the-badge&labelColor=000000)
-
-</div>
 
 ---
 
